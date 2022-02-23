@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Congratulatory poem to Her Royal Highness upon the arrival of Their Royal Highness's in England, May the 27th, 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34290</idno>
+            <idno type="STC">Wing C5833</idno>
+            <idno type="STC">ESTC R29681</idno>
+            <idno type="EEBO-CITATION">11192354</idno>
+            <idno type="OCLC">ocm 11192354</idno>
+            <idno type="VID">46646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Congratulatory poem to Her Royal Highness upon the arrival of Their Royal Highness's in England, May the 27th, 1682</title>
+               </titleStmt>
+               <extent>1 sheet [2 p.]   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Poetry.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:46646:1"/>
+            <head>A Congratulatory Poem TO <hi>Her Royal Highneſs:</hi> Upon the Arrival of Their ROYAL HIGHNESS'S In <hi>ENGLAND, May</hi> the 27th. 1682. </head>
+            <q>
+               <hi>Dic quae majora canamus?</hi>
+            </q>
+            <lg>
+               <l>GAy Spring, thou happy ſeaſon of deſire,</l>
+               <l>So warm'd, ſo Bleſt with a Majeſtick Fire;</l>
+               <l>Sure careful Nature, ne'r could thee have crownd</l>
+               <l>With more Indulgent Graces, then are found</l>
+               <l>Luxuriant now in <hi>England</hi>'s Peaceful Breaſt,</l>
+               <l>Whil ſt there <hi>Three Mighty Kingdoms Care</hi> does reſt.</l>
+               <l>Bleſt Pair! (ſo juſtly now you ſeem to be)</l>
+               <l>Freed from cold <hi>North,</hi> and faithleſs winding Sea;</l>
+               <l>Your gentle Veſſel, with a Princ-elike Pride,</l>
+               <l>Stately on truſty Tides may calmly ride:</l>
+               <l>No lofty Billows here reſtrain'd do rage,</l>
+               <l>Or fatal tenth Wave threaten to ingage</l>
+               <l>With Your guilt Barge, which can e n aſſwage.</l>
+               <l>All pow'rfull <hi>Neptune,</hi> how e'r ſo rough before,</l>
+               <l>Smooths his curl'd brow, and fairly greets the ſhoar;</l>
+               <l>His briniſh Rage flows ſweetly into Love,</l>
+               <l>Whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt on his yielding Back Your Graces move.</l>
+               <l>See how his nimble Off-ſpring round You play,</l>
+               <l>In Luxury of Joy they waſte the day.</l>
+               <l>Each Silver Eye Your flying Sails does trace,</l>
+               <l>Each <hi>Beam</hi> ſeems greedy of Your Charming Face.</l>
+               <l>All things grow ſweet in Natures tender <hi>Spring.</hi>
+               </l>
+               <l>To Loyal Subjects hearts You gladneſs bring:</l>
+               <l>Luſtre to all, and quiet to the <hi>KING.</hi>
+               </l>
+               <l>Hence dull <hi>Phanaticks,</hi> ſeeming Virtuous Souls,</l>
+               <l>Quaffing <hi>Sedition</hi> off in high-froth'd <hi>Bowles:</hi>
+               </l>
+               <l>To <hi>Satan's Cloſet</hi> haſte, your Paradice,</l>
+               <l>Our joys you cannot taſte, but in diſguiſe.</l>
+               <l>Hence fly, no more by <hi>Shamming Methods</hi> try</l>
+               <l>To Raze <hi>HIS</hi> Virtue 'mongſt Poſterity.</l>
+               <l>Hail thou fair <hi>ALBION!</hi> happy <hi>Thou</hi>
+               </l>
+               <l>Who <hi>Ages</hi> Frowns, nor <hi>Winters</hi> ſeem ſt to know,</l>
+               <l>Whil'ſt no dull Care ſits heavy on <hi>Thy Brow.</hi>
+               </l>
+               <l>Thrice happy <hi>Thou,</hi> the Glory of a <hi>Crown,</hi>
+               </l>
+               <l>(Whoſe daring Courage beats the <hi>Faction</hi> down,)</l>
+               <pb n="2" facs="tcp:46646:2" rendition="simple:additions"/>
+               <l>Secure is lodg'd within <hi>Thy</hi> deareſt Arms,</l>
+               <l>And every <hi>Muſe</hi> grows big with Noble Charms.</l>
+               <l>A <hi>Faming Gale</hi> in <hi>Tuneſui Reeds</hi> do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s play,</l>
+               <l>And humbly ſalutes this welcom Day;</l>
+               <l>Old <hi>Thames,</hi> now charm'd by no <hi>Rche<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ous Song,</hi>
+               </l>
+               <l>With eaſie Pride glides youthfully along:</l>
+               <l>The Neighbouring <hi>Youth</hi> in joy their Senſes ſteep,</l>
+               <l>With <hi>Songs</hi> they huſh all drowzy Care a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eep.</l>
+               <l>In diſtant <hi>Ecchoes</hi> ſounds your wiſh'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mbling with Joy, each <hi>Muſe</hi> inſpir'd doe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To Great <hi>APOLLO, Preſident of Verſe,</hi>
+               </l>
+               <l>To whom (in great Confuſion) they rehearſe</l>
+               <l>
+                  <hi>YOU Both Arriv'd;</hi> The God s ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>monious <hi>Breaſt</hi>
+               </l>
+               <l>With ſofting Airs is i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tantly poſſeſs'd;</l>
+               <l>His <hi>Raviſh d Soul</hi> ſuch joy of you invades</l>
+               <l>As did the <hi>Thracian Youth,</hi> when from the Shades</l>
+               <l>
+                  <hi>Orpheus</hi> return d, where his <hi>Euridice</hi>
+               </l>
+               <l>From hidden Sorrows Anguiſh is not free;</l>
+               <l>A <hi>Lovely Paſſion</hi> each to other lent,</l>
+               <l>Such as! <hi>our Matchleſs Souls</hi> do repreſent.</l>
+               <l>Unhappy they, through Fate o r-ru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng Life;</l>
+               <l>
+                  <hi>Hope</hi> falſe did prove, and threw down joy with grief.</l>
+               <l>Grant, <hi>God of Love,</hi> that no regardleſs <hi>Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+               </l>
+               <l>Suffer theſe Joys to have ſo ſhort a date;</l>
+               <l>Joy due to <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our Return</hi> our Iſland Crowns;</l>
+               <l>At <hi>Your Bright Preſence</hi> Envy ſhrowds her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rowns;</l>
+               <l>
+                  <hi>A willing Proſelyte</hi> after YOU ſhe goes,</l>
+               <l>Charm d, at YOUR Feet her ſelf a <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſtrate</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ows;</l>
+               <l>Shining like <hi>Heav'ns Bright Queen,</hi> ſublimes <hi>our Seat;</hi>
+               </l>
+               <l>Than <hi>You</hi> our <hi>Courts</hi> ſearce feel a gentler heat.</l>
+               <l>
+                  <hi>Grace,</hi> mix d with <hi>Majeſty,</hi> in <hi>Your Face</hi> appears;</l>
+               <l>YOU ſeem to entertain no <hi>Barren Cares.</hi>
+               </l>
+               <l>
+                  <hi>FERTILE</hi> as Earth, Your <hi>Beauty</hi> does relieve</l>
+               <l>Each <hi>Fainting Soul,</hi> Your <hi>Royal Bed</hi> does give</l>
+               <l>New <hi>Peaceful Glories,</hi> and our <hi>HOPES</hi> Revive.</l>
+            </lg>
+            <lg>
+               <l>Fair <hi>Cyprian Queen,</hi> all Rage ſee you confine;</l>
+               <l>Let your ſoft Arms about our <hi>Princeſs</hi> twine;</l>
+               <l>Timely preſent to our impatient ſight</l>
+               <l>The INFANT PRINCE, bleſt <hi>Natures</hi> ſole delight.</l>
+            </lg>
+            <lg>
+               <l>Such are our wiſhes due to Heav'n-born <hi>Grace,</hi>
+               </l>
+               <l>To YOU, and to Great <hi>Caeſar</hi>'s Princely Race.</l>
+            </lg>
+            <closer>
+               <salute>
+                  <hi>Vivat</hi> Io! CAROLUS, <hi>magni quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Gloria FRATRIS, Ah! ſero ſubveant jura ſevera necis.</hi>
+               </salute>
+               <signed>Per <hi>C. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
